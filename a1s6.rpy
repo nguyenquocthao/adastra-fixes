@@ -1103,10 +1103,10 @@ n "\"Now, we really must be getting to the trial...if you're wanting to go?\""
 "I get up and Neferu offers his arm to me which I stare at."
 show nef talking with dis
 n "\"Shall I escort you?\""
+"This is something I'd seen the jackal do multiple times to Vriginia and Alex."
+"For some reason, he seemed to really just enjoy \"escorting\" people around."
 
 if ones == True:
-    "This is something I'd seen the jackal do multiple times to Vriginia and Alex."
-    "For some reason, he seemed to really just enjoy \"escorting\" people around."
     "After his little lecture, I can tell that he's trying to smooth things over between me and Amicus."
     "So, reluctantly, I reach out and take his arm in both hands, if only to please him."
     show nef smile eyes a with dis
@@ -1118,19 +1118,7 @@ if ones == True:
     "It's not as nice as Amicus's coat, but it does feel nice in a different way."
     "There's a lot of muscle there too, and I wonder if the jackal works out in the amphitheater, though I've never seen him there."
     "I guess I can see why so many people are into this guy...if muscles are your thing."
-    "As we continue through the halls, I notice we're taking a different route than the one to the throne room."
-    m "\"Where are we going?\""
-    show nef with dissolve
-    n "\"To meet the star of the most asinine entertainment show in the galaxy. What better way to determine the fate of all things, siblings and parents alike, than through meaningless, wolven spectacle?\""
-    m "\"...What?\""
-    "Neferu pauses in front of a door, gently pulling away from me while his paw is held delicately up to the panel."
-    show nef f with dis
-    n "\"What I'm saying is that quite a bit is depending on your wolf right now, and he might need some encouragement.\""
-    "I'm still staring at the jackal when he finally presses the panel, opening the door."
-
 else:
-    "This is something I'd seen the jackal do multiple times to Virginia and Alex."
-    "For some reason, he seemed to really just enjoy \"escorting\" people around."
     "However, I still really don't trust this guy, and I don't want him to feel like he's won any points with me."
     "So I shake my head."
     m "\"Naw, I'll just follow you.\""
@@ -1139,16 +1127,19 @@ else:
     scene bg palace1 with dissolve
     play loop "sfx/birds.ogg"
     "I follow the jackal out the door, my footsteps much louder than Neferu's."
-    "As we continue through the halls, I notice that we're taking a different route than the one to the throne room."
-    m "\"Where are we going?\""
-    show nef with dissolve
-    n "\"To meet the star of the most asinine entertainment show in the galaxy. What better way to determine the fate of all things, siblings and parents alike, than through meaningless, wolven spectacle?\""
-    m "\"...What?\""
+
+"As we continue through the halls, I notice we're taking a different route than the one to the throne room."
+m "\"Where are we going?\""
+show nef with dissolve
+n "\"To meet the star of the most asinine entertainment show in the galaxy. What better way to determine the fate of all things, siblings and parents alike, than through meaningless, wolven spectacle?\""
+m "\"...What?\""
+if ones == True:
+    "Neferu pauses in front of a door, gently pulling away from me while his paw is held delicately up to the panel."
+else:
     "Neferu pauses in front of a door, his paw held delicately up to the panel."
-    show nef f with dis
-    n "\"What I'm saying is that quite a lot is depending on your wolf right now, and he might need some encouragement.\""
-    "I'm still staring at the jackal when he finally presses the panel, opening the door."
-    
+show nef f with dis
+n "\"What I'm saying is that quite a bit is depending on your wolf right now, and he might need some encouragement.\""
+"I'm still staring at the jackal when he finally presses the panel, opening the door."    
 scene bg meditationroom with dissolve
 play sound "sfx/dooropen.ogg"
 stop loop fadeout 3.0

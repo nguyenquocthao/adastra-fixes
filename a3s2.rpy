@@ -534,10 +534,10 @@ $ renpy.pause(delay=5.0, hard=False)
 "..."
 "..."
 play music "music/beyondthestars1.ogg" fadein 5.0
-if fate == False:
-    "I drift through the blackness, feeling a sense of peace like I've never known before."
-    "Even though the space is empty, I feel it crowded with others, so many others...or is it one other?"
-    "I sense so many different minds and thoughts, melded together as one."
+"I drift through the blackness, feeling a sense of peace like I've never known before."
+"Even though the space is empty, I feel it crowded with others, so many others...or is it one other?"
+"I sense so many different minds and thoughts, melded together as one."
+if fate == False:    
     "\"Hello...\""
     "\"We must apologize for what has happened to you.\""
     "\"It was not our intention for it to end this way.\""
@@ -556,9 +556,6 @@ if fate == False:
     $ renpy.pause(delay=5.0, hard=True)
     return
 else:
-    "I drift through the blackness, feeling a sense of peace like I've never known before."
-    "Even though the space is empty, I feel it crowded with others, so many others...or is it one other?"
-    "I sense so many different minds and thoughts, melded together as one."
     "\"Hello...\""
     "\"We apologize for what has happened to you.\""
     "\"We know that you are confused.\""
@@ -953,9 +950,9 @@ m "\"We must prepare for an event many millennia from now. This is one step of m
 a "\"But what does this have to do with [mc]?\""
 "Amicus shifts his hold on the human, just wanting him to come back to consciousness."
 m "\"He must play a role...and you must make a decision, Amicus...\""
+"Everything seems to come together all at once for Amicus."
 if end_game1 >= 3:
-    "Everything seems to come together all at once for Amicus."
-    jump end_game1
+    $ end_game = 1
 else:
-    "Everything seems to come together all at once for Amicus."
-    jump end_game2
+    $ end_game = 2
+jump end_game

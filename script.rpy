@@ -609,6 +609,7 @@ init:
     $ elevens = False
     $ twelves = False
     $ thirteens = False
+    $ end_game = 1
 
 #Channels
 init python:
