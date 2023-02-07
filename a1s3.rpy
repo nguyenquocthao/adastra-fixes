@@ -408,10 +408,6 @@ menu:
         "The wolf's cock and balls are just like a human's."
         "Sure, maybe with a little more fur on the balls and a darker shade on the cock, but still similar."
         hide ami with dissolve
-        "We reach the Sightseer and I see that Alex has laid out the food in a neat little line of plates."
-        "Though some of the pastries look a bit squashed, everything seems to have survived the emergency dumping that they suffered."
-        "Amicus grabs a few large plates of quiches and what look like fruit pastries."
-        "Meanwhile, I grab a folded blanket, the bottle of wine for Amicus, and a smaller bottle of the vegetable-tasting juice I'd had yesterday for myself."
 
     "Don't look.":
         "Nope."
@@ -419,11 +415,10 @@ menu:
         "I'm not planning to stay here for {i}that{/i} long...I hope."
         "Besides, Alex has been here a while and he seems to be getting along fine without conforming."
         "So I go on keeping my eyes just slightly to the right, letting Amicus fade into a vague, gray blur."
-        "We reach the Sightseer and I see that Alex has laid out the food in a neat little line of plates."
-        "Though some of the pastries look a bit squashed, everything seems to have survived the emergency dumping that they suffered."
-        "Amicus grabs a few large plates of quiches and what look like fruit pastries."
-        "Meanwhile, I grab a folded blanket, the bottle of wine for Amicus, and a smaller bottle of the vegetable-tasting juice I'd had yesterday for myself."
-
+"We reach the Sightseer and I see that Alex has laid out the food in a neat little line of plates."
+"Though some of the pastries look a bit squashed, everything seems to have survived the emergency dumping that they suffered."
+"Amicus grabs a few large plates of quiches and what look like fruit pastries."
+"Meanwhile, I grab a folded blanket, the bottle of wine for Amicus, and a smaller bottle of the vegetable-tasting juice I'd had yesterday for myself."
 "We make our way over to the shade of the trees before I roll out the blanket and Amicus starts to tie his underwear back on."
 "Finally, he sits down with a huff before reaching out for the wine."
 show ami u with dissolve
