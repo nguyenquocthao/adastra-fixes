@@ -199,7 +199,7 @@ play sound "sfx/dooropen.ogg"
 "I open the door and immediately hear Virginia's voice, raised slightly in annoyance."
 show vir annoyed at left with dissolve
 v "\"No! Lux is the city in desperate need of funds right now. {i}Lex{/i} is doing very well.\""
-show ami annoyed at right with dissolve
+show ami angry at right with dissolve
 a "\"Well, I'm sorry, but the names are rather similar, are they not? I meant Lux anyway.\""
 show vir serious p with dis
 v "\"Even if you meant it that way, I can guarantee you the triumvirates won't be pleased hearing you mistakenly refer to which city they are from!\""
@@ -428,7 +428,7 @@ c "\"—Now that I've abdicated the throne and am leaving in disgrace?\""
 m "\"You're not leaving in disgrace, I think the people are going to be really—\""
 c "\"I'm already being made fun of for being one of the shortest serving emperors in the history of the empire. I'm the main topic in all of the comedies at the moment.\""
 m "\"Ah.\""
-show cas paw smileeyes
+show cas paw smile eyes
 "Cassius takes in a deep breath, closing his eyes."
 show cas paw talking
 c "\"Anyway, [mc], I wanted to thank you.\""

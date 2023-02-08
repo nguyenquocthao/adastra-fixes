@@ -217,7 +217,7 @@ c "\"I know where I am, idiot.\""
 "Seems like he's returning to his old self."
 m "\"Well, that's good. You had a pretty bad reaction to...whatever that was.\""
 "Cassius is pushing himself up to a sitting position, doing it slowly just like I had."
-show cas dissapointed with dis
+show cas disappointed with dis
 "He lets his head hang for a while, probably going through the same dizzy spells I'd just experienced."
 "I wait patiently, deciding to move back over to the sofa while I do."
 "His ears perk up as I sit down, and he looks back up at me."
@@ -264,7 +264,7 @@ c "\"Oh please, simian...or whatever the hell you are. You're only trying to hum
 "I sit back on my hands, contemplating all of this."
 "I've read about DMT experiences back on Earth, how if you break through, you can meet extra-dimensional beings that tell you the secrets of the universe."
 "I would have considered my experience to be all in my head, but if Cassius was actually there..."
-show cas righteyes with dis
+show cas right eyes with dis
 "I notice then that Cassius is looking very closely at me, gauging my expression."
 m "\"What?\""
 c "\"He spoke to you, didn't he? What did he say?\""
@@ -306,7 +306,7 @@ show cas right with dis
 "Cassius seems to contemplate, then shakes his head."
 c "\"Well, nothing there could help us. They simply torment me when I try to communicate with them.\""
 m "\"Torment?\""
-show cas righteyes with dis
+show cas right eyes with dis
 c "\"They appear as demons and taunt me. It seems that the parents truly do want to cut off contact with us...which I'm fine with.\""
 "Cassius says that last bit with such meek defiance that I almost feel sorry for him."
 m "\"Maybe it was just the drug? I've heard plenty of stories of people freaking out on mind-altering stuff, especially if they have problems with anxiety—\""
