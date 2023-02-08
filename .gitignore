@@ -1,1 +1,5 @@
 .vscode
+*.rpyc
+*.rpymc
+cache/
+saves/
