@@ -671,7 +671,7 @@ show cas annoyed with dis
 "He turns his gaze slowly to me."
 c "\"What sort of question is that?\""
 m "\"Remember when we saw the parents together?\""
-show cas righteyes with dis
+show cas right eyes with dis
 "Cassius instantly bristles, his ears turning a deep red."
 m "\"You remember what they said, right?\""
 c "\"I don't remember.\""

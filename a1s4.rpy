@@ -167,7 +167,7 @@ with dissolve
 show cas right with dis
 c "\"He's rather blunt, isn't he?\""
 "Virginia doesn't respond, and Cassius looks over to see that she's glaring at him."
-show cas righteyes with dis
+show cas right eyes with dis
 c "\"What?\""
 v "\"He is our GUEST, Cassius. Start treating him like one.\""
 show cas disappointed with dis

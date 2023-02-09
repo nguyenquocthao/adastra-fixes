@@ -947,7 +947,7 @@ c "\"I'm confused as to how all of this could have happened, so know that if you
 "Consequences?"
 "He's making it sound as if I've committed some sort of crime or conspiracy...I mean, maybe I've been a part of some, but it's definitely not my fault."
 m "\"What do you want to know?\""
-show cas righteyes with dis
+show cas right eyes with dis
 "Cassius's eyes flick to mine then, and I see mild surprise there."
 "He's still probably not used to an alien like me speaking directly to him in full sentences."
 "He pauses again before resting his chin on a paw, clearly trying to look casual."
@@ -1037,7 +1037,7 @@ c "\"...If it were only I that knew of this...maybe. But there are others that k
 m "\"Are you talking about Cato? He's just your advisor, right? You can ignore him.\""
 "This time Cassius doesn't respond, looking away again."
 c "\"If I can make the case that this was a truly honest mistake, then maybe I have a chance of convincing these...others.\""
-show cas righteyes with dis
+show cas right eyes with dis
 c "\"Better yet, convince them that this wasn't First Contact at all. Are you even sure your people are completely unaware of the {i}Galaxias{/i}?\""
 "I start to say that I am pretty sure, but he's looking at me in a strange way."
 m "\"Um...our governments are pretty secretive. They might know something.\""

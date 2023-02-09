@@ -85,7 +85,7 @@ m "\"So how are you gonna counter that argument? Seems like a pretty good one to
 show ami talking with dis
 a "\"If the wheel of your chariot is caught on a stone, does that mean the campaign should be turned around and ended?\""
 "He looks at me, and I just stare back."
-show ami ebarrassed with dis
+show ami embarrassed with dis
 a "\"Well, the answer is no; you simply need to give it a push.\""
 m "\"In other words?\""
 show ami crossed serious with dis
@@ -94,7 +94,7 @@ a "\"Besides, it was completely predictable: the war with the Khemians and the r
 show ami with dis
 a "\"We certainly can't have any leverage in the galaxy when the only siblings speaking to us are the cats. If we can fix those relations, we could be well on our way to prosperity again.\""
 m "\"Well, that and un-stunting your children.\""
-show ami emabrrassed with dis
+show ami embarrassed with dis
 a "\"Yes, that too.\""
 m "\"Which I still can't believe you did.\""
 show ami angry with dis
@@ -167,7 +167,7 @@ m "\"Like what?\""
 show ami motivated with dis
 a "\"Want to practice {i}pugnu{/i} with me?\""
 m "\"No.\""
-show ami emabrrassed with dis
+show ami embarrassed with dis
 a "\"Aww, come on.\""
 "I know Amicus would go easy on me, but I really don't feel like getting sweaty and exhausted right now."
 m "\"Why don't we just go to the island and have a picnic again?\""
@@ -1006,7 +1006,7 @@ n "\"The seventh hour, which means the trial starts in less than an hour.\""
 m "\"Where's Amicus?\""
 n "\"Preparing for the trial.\""
 m "\"He...hasn't been back all night.\""
-show nef sidetalk with dis
+show nef sidetalk f with dis
 n "\"He was meditating most of the night.\""
 m "\"All night?\""
 show nef talking f with dis
@@ -1095,7 +1095,7 @@ n "\"Now, does that clear things up for you?\""
 "Even though I just woke up, I'm already feeling exhausted."
 m "\"I...guess. There was a little more to it than that, though.\""
 n "\"Which I'm sure can be settled in the future. Civil discussions can do wonders.\""
-show nef sidetalk
+show nef sidetalk f
 n "\"Now, we really must be getting to the trial...if you're wanting to go?\""
 "Neferu raises an eyebrow at me."
 "I find myself shaking my head, but not to deny the jackal his request."
@@ -1207,7 +1207,7 @@ m "\"What?\""
 a "\"I am going to go out there, [mc], there's no doubt about that. I just...I was just having a moment. I was trying to be more honest with you, but thank you.\""
 "I frown."
 m "\"Well, you sure picked a hell of a moment to have it.\""
-show ami emabrrassed with dis
+show ami embarrassed with dis
 a "\"I know...I've just been having a terrible time after yesterday, is all. I needed to apologize to you.\""
 "I deflate a little, but there's some relief there too, seeing Amicus somewhat back to his old self."
 m "\"I...well...I forgive you, but this is a lot bigger than us right now.\""

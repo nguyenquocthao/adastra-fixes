@@ -652,7 +652,7 @@ ca "\"Pause last directive!\""
 com "\"Pausing last directive.\""
 "My view is obscured now, but I can hear Amicus's heavy breathing, his heart hammering so hard that I can feel it through his back."
 "Once again, Cato allows the silence to stretch out before speaking."
-show cat forwn with dis
+show cat frown with dis
 ca "\"Then tell us the truth, Amicus.\""
 show ami angry teeth u with dis
 a "\"You must not harm him! Otherwise, I will give you nothing and...and I'll have you thrown in the dungeon when I become emperor!\""

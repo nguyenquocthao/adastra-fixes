@@ -764,10 +764,10 @@ a "\"[mc], will you date me?\""
 stop music
 "I stare at the wolf, still taking in the presentation he'd just given me."
 "My mouth still hangs open and I make a few \"uh\" sounds as I try to form a coherent sentence to respond in my mind."
-show ami smile eyes with dis
+show ami smile with dis
 a "\"Ah, I probably messed that up, huh? Well, hopefully the message came across clearly? What do you think?\""
 m "\"I—I'm stunned.\""
-show ami smile with dis
+# show ami smile with dis
 a "\"And that's...good?\""
 m "\"Amicus, what is this?\""
 show ami embarrassed with dis
@@ -790,7 +790,7 @@ a "\"Well, what you told me; it's a relationship status that enables you to beco
 "Well, he seems to have it down for the most part."
 "The part that I'm having trouble with though..."
 m "\"Well, people that date also tend to have...I guess feelings for each other.\""
-show ami emabrrassed with dis
+show ami embarrassed with dis
 a "\"Well yes, I have very friendly feelings toward you, and I want to make you more comfortable around me, especially when it comes to physical intimacy. Isn't that the point of dating?\""
 "I sigh, realizing I hadn't explained it well enough, but then I hadn't realized that Amicus was planning to do this either."
 m "\"Well, usually people don't do it unless they love each other...\""
@@ -851,7 +851,7 @@ m "\"Friends that have sex, basically.\""
 show ami surprised with dis
 a "\"Ah, I see. We haven't done that, though.\""
 m "\"No. But I'm not gonna make you date me just to get a hand-job.\""
-show ami smile eyes with dis
+show ami smile with dis
 a "\"Hehe...\""
 show ami sad with dis
 "Amicus scratches behind his head before looking away again."
@@ -881,7 +881,7 @@ a "\"Damn.\""
 m "\"Is that bad?\""
 a "\"It's...simply surprising. He's the most famous Adastran rhetorician there is.\""
 m "\"Should I be worried?\""
-show ami smile eyes with dis
+show ami smile with dis
 a "\"No, in fact, now that you've told me I'm in much better shape. I now have an idea of what style he might use, so that will make it easier to counter his points.\""
 m "\"If you're sure...\""
 show ami motivated with dis
